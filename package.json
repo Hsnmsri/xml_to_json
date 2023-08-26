@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "xml2js": "^0.6.2"
+  },
+  "name": "xml2json",
+  "version": "1.0.0",
+  "description": "Convert XML to JSON",
+  "main": "main.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hsnmsri/xml_to_json.git"
+  },
+  "keywords": [
+    "xml2json",
+    "xmltojson"
+  ],
+  "author": "Mr.Mansouri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hsnmsri/xml_to_json/issues"
+  },
+  "homepage": "https://github.com/Hsnmsri/xml_to_json#readme"
+}
